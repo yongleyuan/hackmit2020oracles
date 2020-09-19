@@ -1,0 +1,69 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-image: url(../Procol-Harum-box.jpg);
+	background-position: center;
+}
+
+.header
+{
+	height: 100vh;
+	background-image: linear-;
+	background-size: cover;
+	background-position: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: sans-serif;
+	color: red;
+	<img src="Consumation.jpg", alt="Kingdom Come, style="
+}
+
+h1
+{
+	color: #000;
+	margin-bottom: 70px;
+	font-size: 45px;
+	letter-spacing: 2px; 
+	text-align: center;
+}
+
+.search-field
+{
+	height: 50px;
+	padding: 10px;
+	border: none;
+	border-radius: 25px;
+	outline: none;
+}
+
+.Institution
+{
+	width: 400px;
+}
+
+.Class
+{
+	width: 200px;
+}
+
+.search-btn:
+{
+	height: 50px;
+	width: 150px;
+	background: #ffeb3b;
+	border: none;
+	color: #000;
+	border-radius: 25px;
+}
+
+.search-btn:hover{
+	background: #ffc107;
+	cursor:pointer;
+}
+
+.form-box
+{
+	background: rgba(0, 0, 0, 0.5);
+	padding: 30px;
+}
